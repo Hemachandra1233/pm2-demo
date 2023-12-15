@@ -8,7 +8,7 @@ module.exports = {
   // Deployment Configuration
   deploy : {
     production : {
-       "user" : "root",
+       "user" : "ubuntu",
        "host" : ["127.0.0.1"],
        "ref"  : "origin/master",
        "repo" : "git@github.com:Hemachandra1233/pm2-demo.git",
