@@ -12,7 +12,7 @@ module.exports = {
        "host" : ["127.0.0.1"],
        "ref"  : "origin/master",
        "repo" : "git@github.com:Hemachandra1233/pm2-demo.git",
-       "path" : "/var/www/pm2-demo",
+       "path" : "/home/ubuntu/express-demo",
        "post-deploy" : "npm install"
     }
   }
