@@ -5,7 +5,7 @@ module.exports = {
     script: 'index.js'
   }],
    
-  // Deployment Configuration
+  // aDeployment Configuration
   deploy : {
     production : {
        "user" : "ubuntu",
